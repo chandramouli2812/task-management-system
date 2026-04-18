@@ -19,7 +19,7 @@ Features include user authentication, project management, task tracking, assignm
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/chandramouli2812/task-management-system.git>
 cd task-management-system
 ```
 
